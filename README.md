@@ -11,5 +11,6 @@ JS 파트 프로젝트 진행과정
 5. button을 클릭한 event에서 dataset.key와 dataset.value를 얻어서 filter를 통해 item[key]와 value가 같은 item들로 이루어진 배열을 얻을 수 있습니다.
 6. 이를 통해서 얻은 배열을 위의 2-3과 같은 과정으로 진행하여 유저가 클릭한 버튼에 알맞은 종류의 옷들로 구성된 화면이 나타납니다.
 
-실행 결과 화면
+# 실행 결과 화면
+
 <img src="img/screenshot.png" />
