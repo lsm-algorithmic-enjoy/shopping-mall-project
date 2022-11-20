@@ -1,6 +1,6 @@
 # Shopping Mall Application
 
-About Project: Vanilla JS를 중점적으로 활용한 프로젝트입니다. 쇼핑몰 메인 로고를 클릭하면 전체적인 옷들이 나타나고 6개의 각각의 버튼을 클릭했을때 버튼의 종류별로 옷들이 나타납니다. CROS 이슈로 local에서 실행시 open with live server를 이용하여 결과 확인이 가능합니다.
+About Project: Vanilla JS를 중점적으로 활용한 프로젝트입니다. 쇼핑몰 메인 로고를 클릭하면 전체적인 옷들이 나타나고 6개의 각각의 버튼을 클릭했을때 버튼의 종류별로 옷들이 나타납니다. json 관련 CORS 이슈로 인해 배포는 진행하지 않았습니다. local에서 실행시 open with live server를 이용하여 정상적인 작동 결과 확인이 가능합니다.
 
 JS 파트 프로젝트 진행과정
 
